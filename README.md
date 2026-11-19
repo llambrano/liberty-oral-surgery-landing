@@ -19,6 +19,6 @@ Open `index.html` in a browser. It is a single static page with no build step; f
 ## Before launch
 
 - Fill in the `[bracketed]` placeholders: sedation options, accepted insurance, financing partner, referral policy
-- Have the practice review the recovery-timeline and FAQ copy
+- Have the practice review the FAQ copy
 - Review numbers come from the Spokane Valley Google profile (4.8, 507 reviews, as of Nov 18, 2026)
 - Wire the consultation form and the "Get directions" / "Apply for financing" links to real destinations
