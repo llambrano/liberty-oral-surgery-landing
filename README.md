@@ -18,8 +18,8 @@ Open `index.html` in a browser. It is a single static page with no build step; f
 
 ## Before launch
 
-- Fill in the `[bracketed]` placeholders: sedation options, accepted insurance, financing partner, referral policy
 - Have the practice review the FAQ copy
 - Review figures (from Liberty, Nov 19, 2026): 1,051 Google reviews across both offices, 99 about wisdom teeth, 4.8 Spokane Valley / 4.9 Post Falls. Review figures and quotes are updated by hand about every 6 months (no live widget)
 - Phone: new-patient tracking number (509) 822-2774 throughout; (208) 264-4665 removed
 - Wire the consultation form and the "Get directions" / "Apply for financing" links to real destinations
+- "For referring dentists" links to https://los.hirenelva.com/referral (Nelva referral page, going live the week of Nov 23, 2026): check it loads before launch
